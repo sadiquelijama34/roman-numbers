@@ -12,4 +12,4 @@ c) The program has a rule that states if symbol I is placed before any other spe
 d) The program is able to separate ones, tens, & hundreds  
 e) The program rejects any number that is greater or equal to 4000  
 ##### Copyright and Licences  
-&C Sadique Ali/Moringa  
+&copy; Sadique Ali/Moringa  
